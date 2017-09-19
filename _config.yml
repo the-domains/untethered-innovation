@@ -19,7 +19,32 @@ colors:
 name: 'untethered innovation '
 layout_spectrum: 0.4402486593462527
 typography_spectrum: 0.9173475243151188
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/182ceae4-9d57-4de1-b32c-2df4ae4b7408.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/182ceae4-9d57-4de1-b32c-2df4ae4b7408.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: 'Red Pill Associates '
 description: 'Cutting Edge Innovation and Insights '
 github: true
